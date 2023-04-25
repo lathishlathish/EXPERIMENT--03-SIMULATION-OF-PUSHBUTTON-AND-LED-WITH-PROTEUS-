@@ -154,7 +154,8 @@ When Switch is in OFF state:
 
 When Switch is in ON state:
 
- ![Uploading Screenshot 2023-04-25 114241.png…]().
+   ![Screenshot 2023-04-25 114241](https://user-images.githubusercontent.com/120359170/234191876-52334cd0-4326-4333-a01a-d4617c3c9f93.png)
+
 
 ## Result :
 Interfacing a digital output and digital input  with ARM microcontroller are simulated in proteus and the results are verified.
