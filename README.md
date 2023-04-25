@@ -148,11 +148,11 @@ Register no.:212222230073
 ```
 ## Output screen shots of proteus  :
 
-When Switch is in OFF state:
+## When Switch is in OFF state:
 ![Screenshot 2023-04-25 114157](https://user-images.githubusercontent.com/120359170/234189976-88b84a33-c9a7-45c7-a3c5-563d048758e5.png)
 
-When Switch is in ON state:
- ![Screenshot 2023-04-25 114241](https://user-images.githubusercontent.com/120359170/234191876-52334cd0-4326-4333-a01a-d4617c3c9f93.png)
+## When Switch is in ON state:
+![Screenshot 2023-04-25 114241](https://user-images.githubusercontent.com/120359170/234191876-52334cd0-4326-4333-a01a-d4617c3c9f93.png)
 
 
 ## Result :
