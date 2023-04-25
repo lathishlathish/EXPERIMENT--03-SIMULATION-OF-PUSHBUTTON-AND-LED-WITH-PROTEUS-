@@ -150,13 +150,12 @@ Register no.:212222230073
 
 When Switch is in OFF state:
 
- ![Screenshot 2023-04-24 213927](https://user-images.githubusercontent.com/118348224/234056881-3fdd2b9a-4ff5-489c-9433-7aa406dc3126.png)
+![Screenshot 2023-04-25 114157](https://user-images.githubusercontent.com/120359170/234189976-88b84a33-c9a7-45c7-a3c5-563d048758e5.png)
 
 When Switch is in ON state:
 
- ![Screenshot 2023-04-24 214101](https://user-images.githubusercontent.com/118348224/234056887-b3b929f6-4267-4281-bd3e-70a27e1cb17c.png)
+![Uploading Screenshot 2023-04-25 114241.png…]().
 
- 
 ## Result :
 Interfacing a digital output and digital input  with ARM microcontroller are simulated in proteus and the results are verified.
 
