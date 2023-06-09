@@ -112,6 +112,10 @@ Register no.:212222230073
 
 ## When Switch is in ON state:
 ![Screenshot 2023-04-25 114241](https://user-images.githubusercontent.com/120359170/234191876-52334cd0-4326-4333-a01a-d4617c3c9f93.png)
+ 
+ ## PROTEUS LAYOUT:
+ ![image](https://github.com/lathishlathish/EXPERIMENT--03-SIMULATION-OF-PUSHBUTTON-AND-LED-WITH-PROTEUS-/assets/120359170/25e020bc-7dd4-4077-8df8-71eb49557119)
+
 
 
 ## Result :
