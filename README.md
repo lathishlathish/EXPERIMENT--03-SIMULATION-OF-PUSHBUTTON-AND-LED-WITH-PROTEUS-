@@ -1,4 +1,4 @@
-# EXPERIMENT--03-SIMULATION-OF-PUSHBUTTON-AND-LED INTERFACE WITH ARM CONTROLLER AND PROTEUS .
+# EXPERIMENT--03-SIMULATION-OF-PUSHBUTTON-AND-LED INTERFACE WITH ARM CONTROLLER AND PROTEUS 
 ## Aim: To Interface a Digital output (LED) and Digital input (Pushbutton) to ARM development board , and simulate it in Proteus 
 ## Components required: STM32 CUBE IDE, Proteus 8 simulator .
 ## Theory 
@@ -64,8 +64,7 @@ We are now at the last part of step by step guide on how to simulate STM32 proje
 ![image](https://user-images.githubusercontent.com/36288975/233856847-32bea88a-565f-4e01-9c7e-4f7ed546ddf6.png)
 
 14. Double click on the the MCU part to open settings. Next to the Program File option, give full path to the Hex file generated using STM32Cube IDE. Then set the external crystal frequency to 8M (i.e. 8 MHz). Click OK to save the changes.
-https://engineeringxpert.com/wp-content/uploads/2022/04/26.png
-
+![image](https://user-images.githubusercontent.com/36288975/234186668-f21e74f6-8958-4eb2-899f-8e53770a5c06.png)
 15. click on debug and simulate using simulation as shown below 
 
 ![image](https://user-images.githubusercontent.com/36288975/233856904-99eb708a-c907-4595-9025-c9dbd89b8879.png)
@@ -73,6 +72,9 @@ https://engineeringxpert.com/wp-content/uploads/2022/04/26.png
 
 ## STM 32 CUBE PROGRAM :
 ```
+Developed by:Deepika .S
+Reference number:212222230028
+
 #include "main.h"
 #include"stdio.h"
 #include"stdbool.h"
@@ -101,23 +103,19 @@ int main(void)
 	     }
   }
 ```
-```
-programmed by:M .LATHISH KANNA 
-Register no.:212222230073
-```
+
+
+
 ## Output screen shots of proteus  :
-
-## When Switch is in OFF state:
-![Screenshot 2023-04-25 114157](https://user-images.githubusercontent.com/120359170/234189976-88b84a33-c9a7-45c7-a3c5-563d048758e5.png)
-
-## When Switch is in ON state:
-![Screenshot 2023-04-25 114241](https://user-images.githubusercontent.com/120359170/234191876-52334cd0-4326-4333-a01a-d4617c3c9f93.png)
+## LED OFF:
  
- ## PROTEUS LAYOUT:
- ![image](https://github.com/lathishlathish/EXPERIMENT--03-SIMULATION-OF-PUSHBUTTON-AND-LED-WITH-PROTEUS-/assets/120359170/25e020bc-7dd4-4077-8df8-71eb49557119)
-
-
-
+![led off](https://user-images.githubusercontent.com/119393935/234460918-fdba3550-cd61-4905-b7d0-de318aff0c21.jpeg)
+ 
+## LED ON:
+ 
+ ![led on pm](https://user-images.githubusercontent.com/119393935/234458112-cf1de737-c91a-44c3-a577-6e011917522a.jpeg)
+## PROTEUS LAYOUT:
+![circuit ex3](https://github.com/deepikasrinivasans/EXPERIMENT--03-SIMULATION-OF-PUSHBUTTON-AND-LED-WITH-PROTEUS-/assets/119393935/decffcb2-c9c1-4a50-a7bc-8cc5509dacd3)
 ## Result :
 Interfacing a digital output and digital input  with ARM microcontroller are simulated in proteus and the results are verified.
 
